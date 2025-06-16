@@ -18,6 +18,6 @@ Hola, mi nombre es Juan David Ordóñez Bolaños, soy estudiante de la carrera C
 - Tengo 19 años.
 - Estudié casi toda mi vida primaria y secundaria en la institución educativa Institución Educativa Las Mesas "INSEM".
 
-Credit: [ms314006](https://github.com/ms314006)
+Creditos: [ms314006](https://github.com/ms314006)
 
-Last Edited on: 19/11/2020
+Última edición en: 19/11/2020
