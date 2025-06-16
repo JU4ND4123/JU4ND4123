@@ -13,7 +13,10 @@ Hola, mi nombre es Juan David Ordóñez Bolaños, soy estudiante de la carrera C
 🏫 En 2025 empezé mi primer semestre en la Universidad Nacional de Colombia.
 
 ## Sobre mí
-Nací en la ciudad de Bogotá en la fecha 19/03/2006, actualmente vivo en Manizales, tengo 19 años, estudié casi toda mi vida primaria y secundaria en la institución educativa Institución Educativa Las Mesas "INSEM".
+- Nací en la ciudad de Bogotá en la fecha 19/03/2006.
+- Actualmente vivo en Manizales.
+- Tengo 19 años.
+- Estudié casi toda mi vida primaria y secundaria en la institución educativa Institución Educativa Las Mesas "INSEM".
 
 Credit: [ms314006](https://github.com/ms314006)
 
