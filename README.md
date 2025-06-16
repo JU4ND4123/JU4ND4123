@@ -1,4 +1,4 @@
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />JU4ND4 123
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />JU4ND4123
 
 Hola, mi nombre es Juan David Ordóñez Bolaños, soy estudiante de la carrera Ciencias de la Computación en la Universidad Nacional de Colombia - Sede Manizales.
 
