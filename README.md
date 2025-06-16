@@ -1,6 +1,6 @@
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />JU4ND4 123
 
-Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on [dev.to](https://dev.to/ms314006). I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
+Hola, mi nombre es Juan David Ordóñez Bolaños, soy estudiante de la carrera Ciencias de la Computación 
 
 ## 🤓 My values
 🍏 Beginner's mindset and curiosity<br>
