@@ -3,13 +3,13 @@
 Hola, mi nombre es Juan David Ordóñez Bolaños, soy estudiante de la carrera Ciencias de la Computación en la Universidad Nacional de Colombia - Sede Manizales.
 
 ## 🤠 Mis pasatiempos
-🏀 Jugar baloncesto
-🎮 Jugar videojuegos
-🎶 Escuchar música
-🎤 Cantar
+🏀 Jugar baloncesto.
+🎮 Jugar videojuegos.
+🎶 Escuchar música.
+🎤 Cantar.
 
 ## 🥇 Logros importantes
-🎓 En 2023 me gradué de preparatoria
+🎓 En 2023 me gradué de preparatoria.
 🏫 En 2025 empezé mi primer semestre en la Universidad Nacional de Colombia.
 
 ## Sobre mí
@@ -17,6 +17,7 @@ Hola, mi nombre es Juan David Ordóñez Bolaños, soy estudiante de la carrera C
 - Actualmente vivo en Manizales.
 - Tengo 19 años.
 - Estudié casi toda mi vida primaria y secundaria en la institución educativa Institución Educativa Las Mesas "INSEM".
+- Estoy en proceso de aprendizaje del legunaje Python.
 
 Creditos: [ms314006](https://github.com/ms314006)
 
